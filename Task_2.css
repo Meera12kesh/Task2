@@ -1,0 +1,54 @@
+body{
+    position:relative;
+}
+
+
+.logo {
+     font:25pt Arial, sans-serif;
+     align-items: left;    
+}
+ .search { 
+     font:14pt Arial, sans-serif;
+     position:absolute;
+     border-radius: 25px;
+     border: 1px solid glass;
+     background-color: white;
+     width: 330px;
+     height: 20px;
+     color: lightgray;
+    left: 500px;
+    margin-top: 0px;
+    }
+
+
+    .align{
+        text-align: right;
+    }
+
+    .link{
+        color:#1C1C1C;
+        text-align: center;
+        margin-top: 0px;
+    }
+
+    .option{
+      display:block;
+  text-align: center;
+  border:2px;
+  border-radius: 2px solid black;
+   border-style: inherit;
+   background-color: blue;
+   height: 40px;
+   width:150px;
+   font-size: 23px;
+   margin-top: 3px;
+   color: whitesmoke;
+  right:400px;
+    }
+
+ .font5 { font:15pt Arial, sans-serif; }
+ .font6 { font:18pt Arial, sans-serif; }
+ .font7 { font:19pt Arial, sans-serif; }
+ .font8 { font:22pt Arial, sans-serif; }
+
+ .font10 { font:33pt Arial, sans-serif; }
